@@ -1,5 +1,9 @@
 [
   {
+    "package": "bs4cards",
+    "oncran": true
+  },
+  {
     "package": "flametree",
     "oncran": true
   }

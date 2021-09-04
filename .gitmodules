@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bs4cards"]
+	path = bs4cards
+	url = https://github.com/djnavarro/bs4cards
+	shallow = true
+	registered = true
 [submodule "flametree"]
 	path = flametree
 	url = https://github.com/djnavarro/flametree
