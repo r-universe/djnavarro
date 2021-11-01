@@ -6,5 +6,12 @@
   {
     "package": "flametree",
     "oncran": true
+  },
+  {
+    "package": "lsr",
+    "oncran": false
+  },
+  {
+    "package": "jasmines"
   }
 ]
