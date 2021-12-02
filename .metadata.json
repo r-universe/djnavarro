@@ -9,7 +9,7 @@
   },
   {
     "package": "lsr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "jasmines"
