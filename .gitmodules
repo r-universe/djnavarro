@@ -23,3 +23,33 @@
 	url = https://github.com/djnavarro/jasmines
 	shallow = true
 	registered = true
+[submodule "hexify"]
+	path = hexify
+	url = https://github.com/djnavarro/hexify
+	shallow = true
+	registered = true
+[submodule "asciify"]
+	path = asciify
+	url = https://github.com/djnavarro/asciify
+	shallow = true
+	registered = true
+[submodule "jaysire"]
+	path = jaysire
+	url = https://github.com/djnavarro/jaysire
+	shallow = true
+	registered = true
+[submodule "rainbowr"]
+	path = rainbowr
+	url = https://github.com/djnavarro/rainbowr
+	shallow = true
+	registered = true
+[submodule "scrawl"]
+	path = scrawl
+	url = https://github.com/djnavarro/scrawl
+	shallow = true
+	registered = true
+[submodule "turmite59"]
+	path = turmite59
+	url = https://github.com/djnavarro/turmite59
+	shallow = true
+	registered = true
