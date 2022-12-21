@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "queue"
+  },
+  {
     "package": "flametree",
     "oncran": true
   },

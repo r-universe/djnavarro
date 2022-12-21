@@ -8,6 +8,11 @@
 	url = https://github.com/djnavarro/bs4cards
 	shallow = true
 	registered = true
+[submodule "queue"]
+	path = queue
+	url = https://github.com/djnavarro/queue
+	shallow = true
+	registered = true
 [submodule "flametree"]
 	path = flametree
 	url = https://github.com/djnavarro/flametree
