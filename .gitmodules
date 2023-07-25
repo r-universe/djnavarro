@@ -1,60 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/djnavarro/universe
-	shallow = true
 	branch = HEAD
+[submodule "arttools"]
+	path = arttools
+	url = https://github.com/djnavarro/arttools
 [submodule "bs4cards"]
 	path = bs4cards
 	url = https://github.com/djnavarro/bs4cards
-	shallow = true
-	registered = true
 [submodule "queue"]
 	path = queue
 	url = https://github.com/djnavarro/queue
-	shallow = true
-	registered = true
 [submodule "flametree"]
 	path = flametree
 	url = https://github.com/djnavarro/flametree
-	shallow = true
-	registered = true
 [submodule "lsr"]
 	path = lsr
 	url = https://github.com/djnavarro/lsr
-	shallow = true
-	registered = true
 [submodule "jasmines"]
 	path = jasmines
 	url = https://github.com/djnavarro/jasmines
-	shallow = true
-	registered = true
 [submodule "hexify"]
 	path = hexify
 	url = https://github.com/djnavarro/hexify
-	shallow = true
-	registered = true
 [submodule "asciify"]
 	path = asciify
 	url = https://github.com/djnavarro/asciify
-	shallow = true
-	registered = true
 [submodule "jaysire"]
 	path = jaysire
 	url = https://github.com/djnavarro/jaysire
-	shallow = true
-	registered = true
 [submodule "rainbowr"]
 	path = rainbowr
 	url = https://github.com/djnavarro/rainbowr
-	shallow = true
-	registered = true
-[submodule "scrawl"]
-	path = scrawl
-	url = https://github.com/djnavarro/scrawl
-	shallow = true
-	registered = true
-[submodule "turmite59"]
-	path = turmite59
-	url = https://github.com/djnavarro/turmite59
-	shallow = true
-	registered = true
