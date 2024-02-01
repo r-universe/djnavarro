@@ -5,30 +5,30 @@
 [submodule "arttools"]
 	path = arttools
 	url = https://github.com/djnavarro/arttools
-[submodule "bs4cards"]
-	path = bs4cards
-	url = https://github.com/djnavarro/bs4cards
-[submodule "queue"]
-	path = queue
-	url = https://github.com/djnavarro/queue
-[submodule "flametree"]
-	path = flametree
-	url = https://github.com/djnavarro/flametree
-[submodule "lsr"]
-	path = lsr
-	url = https://github.com/djnavarro/lsr
-[submodule "jasmines"]
-	path = jasmines
-	url = https://github.com/djnavarro/jasmines
-[submodule "hexify"]
-	path = hexify
-	url = https://github.com/djnavarro/hexify
 [submodule "asciify"]
 	path = asciify
 	url = https://github.com/djnavarro/asciify
+[submodule "bs4cards"]
+	path = bs4cards
+	url = https://github.com/djnavarro/bs4cards
+[submodule "flametree"]
+	path = flametree
+	url = https://github.com/djnavarro/flametree
+[submodule "hexify"]
+	path = hexify
+	url = https://github.com/djnavarro/hexify
+[submodule "jasmines"]
+	path = jasmines
+	url = https://github.com/djnavarro/jasmines
 [submodule "jaysire"]
 	path = jaysire
 	url = https://github.com/djnavarro/jaysire
+[submodule "lsr"]
+	path = lsr
+	url = https://github.com/djnavarro/lsr
+[submodule "queue"]
+	path = queue
+	url = https://github.com/djnavarro/queue
 [submodule "rainbowr"]
 	path = rainbowr
 	url = https://github.com/djnavarro/rainbowr
