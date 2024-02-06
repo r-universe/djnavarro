@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/djnavarro/universe
+	url = https://github.com/djnavarro/djnavarro.r-universe.dev
 	branch = HEAD
 [submodule "arttools"]
 	path = arttools
