@@ -5,30 +5,30 @@
 [submodule "arttools"]
 	path = arttools
 	url = https://github.com/djnavarro/arttools
-[submodule "asciify"]
-	path = asciify
-	url = https://github.com/djnavarro/asciify
-[submodule "bs4cards"]
-	path = bs4cards
-	url = https://github.com/djnavarro/bs4cards
+[submodule "emaxnls"]
+	path = emaxnls
+	url = https://github.com/djnavarro/emaxnls
+[submodule "erglm"]
+	path = erglm
+	url = https://github.com/djnavarro/erglm
+[submodule "erplots"]
+	path = erplots
+	url = https://github.com/djnavarro/erplots
 [submodule "flametree"]
 	path = flametree
 	url = https://github.com/djnavarro/flametree
-[submodule "hexify"]
-	path = hexify
-	url = https://github.com/djnavarro/hexify
-[submodule "jasmines"]
-	path = jasmines
-	url = https://github.com/djnavarro/jasmines
-[submodule "jaysire"]
-	path = jaysire
-	url = https://github.com/djnavarro/jaysire
 [submodule "lsr"]
 	path = lsr
 	url = https://github.com/djnavarro/lsr
+[submodule "quartose"]
+	path = quartose
+	url = https://github.com/djnavarro/quartose
 [submodule "queue"]
 	path = queue
 	url = https://github.com/djnavarro/queue
-[submodule "rainbowr"]
-	path = rainbowr
-	url = https://github.com/djnavarro/rainbowr
+[submodule "sessioncheck"]
+	path = sessioncheck
+	url = https://github.com/djnavarro/sessioncheck
+[submodule "waeponwifestre"]
+	path = waeponwifestre
+	url = https://github.com/djnavarro/waeponwifestre
