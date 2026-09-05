@@ -5,6 +5,9 @@
 [submodule "arttools"]
 	path = arttools
 	url = https://github.com/djnavarro/arttools
+[submodule "cranlint"]
+	path = cranlint
+	url = https://github.com/djnavarro/cranlint
 [submodule "emaxnls"]
 	path = emaxnls
 	url = https://github.com/djnavarro/emaxnls
@@ -32,6 +35,9 @@
 [submodule "sessioncheck"]
 	path = sessioncheck
 	url = https://github.com/djnavarro/sessioncheck
+[submodule "sketchpad"]
+	path = sketchpad
+	url = https://github.com/djnavarro/sketchpad
 [submodule "waeponwifestre"]
 	path = waeponwifestre
 	url = https://github.com/djnavarro/waeponwifestre
